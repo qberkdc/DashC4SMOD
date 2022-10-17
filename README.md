@@ -1,3 +1,7 @@
-# DashC4SMOD
-This is a DashC4, wow suprised :D
-V1.2
+# DashC4 SMOD Final
+```
+v1.2 Updates
+————————————
+[+] Bugs Fixed
+[+] Prohibition of purchasing before the start of the round
+```
